@@ -14,4 +14,4 @@ We are keen to keep human operators to oversee computer's work.
 - Engine box: 25cm x 25cm x 5cm (length, width, height)
 - Boom: 30cm (length)
 - Stick 33cm (length)
-- Bucket: 260cm^3 (0.26 liters)
+- Bucket: ~400cm^3 (0.4 liters)
