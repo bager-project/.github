@@ -8,7 +8,6 @@ We are keen to keep human operators to oversee computer's work.
 - hydraulic system
 - Raspberry Pi Pico microcontroller
 - [B.A.G.E.R. parser](https://github.com/bager-project/bager-parser) - full project documentation parser
-- software licensed under PolyForm Shield 1.0.0 license
 
 ## Dimensions
 - Engine box: 25cm x 25cm x 5cm (length, width, height)
