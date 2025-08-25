@@ -5,9 +5,9 @@ We are keen to keep human operators to oversee computer's work.
 
 ## Features
 - metal construction coated with anti-corrosion paint
-- hydraulic system
+- linear actuators
 - caterpillars
-- Raspberry Pi Pico microcontroller
+- Raspberry Pi Pico microcontrollers
 - [B.A.G.E.R. parser](https://github.com/bager-project/bager-parser) - full project documentation parser
 
 ## Dimensions
